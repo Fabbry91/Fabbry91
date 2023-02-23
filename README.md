@@ -1,15 +1,9 @@
 <h2 align="center">Hi 👋, I'm Fabricio Alvarez</h2>
 
-    <p align="center">🌱 I’m currently learning **Angular, React, Python and Java**</p>
-
-    <p align="center">👨‍💻 All of my projects are available at
-        <a href="https://fabbry91.github.io/fabricio-alvarez-portfolio" target="_blank">My
-            Portfolio</a>
-    </p>
-
-    <p align="center">💬 Ask me about **Angular, Css, Node.js and JavaScript**</p>
-
-    <p align="center">📫 How to reach me **fabbry1991@gmail.com**</p>
+* 🌱 I’m currently learning \*\*Angular, React, Python and Java\*\*
+* 👨‍💻 All of my projects are available at [My portfolio](https://fabbry91.github.io/fabricio-alvarez-portfolio)
+* 💬 Ask me about \*\*Angular, Css, Node.js and JavaScript \*\*
+* 📫 How to reach me \*\*fabbry1991@gmail.com\*\*
 
 <div align="center">
     <h2>Languages and tools I know and am proficient in</h2>
