@@ -3,22 +3,21 @@
 <div align="center">
     <h3>I'm a passionate fullstack developer from Argentina, thats
         eager to learn new things!</h3>
-
-    <h5 > 🌱 I’m currently learning
+ <div> 🌱 I’m currently learning
         **Angular,
-        React, Python and Java**</h5>
+        React, Python and Java**</div>
 
-    <h5> 👨‍💻 Some of my projects are
+    <div> 👨‍💻 Some of my projects are
         available at
         <a style="font-family: 'Poppins'; text-decoration: none;"
             href="https://fabbry91.github.io/fabricio-alvarez-portfolio"> My portfolio</a>
-    </h5>
+    </div>
 
-    <h5> 💬 Ask me about **Angular, Css,
-        Node.js and JavaScript **</h5>
+    <div> 💬 Ask me about **Angular, Css,
+        Node.js and JavaScript **</div>
 
-    <h5> 📫 How to reach me
-        **fabbry1991@gmail.com**</h5>
+    <div> 📫 How to reach me
+        **fabbry1991@gmail.com**</div>
 </div>
 
 <div align="center">
