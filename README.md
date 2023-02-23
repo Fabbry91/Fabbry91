@@ -8,7 +8,7 @@
 <div align="center">
     <h3 style="font-family: 'Poppins'; font-weight:600;">I'm a passionate fullstack developer from Argentina, thats
         eager to learn new things!</h3>
-
+    <div >
     <ul style="margin: 0 auto; text-align: left; width: 60%; color: #777;">
         <li style="margin-bottom:0.5em; font-weight: 400; font-family: 'Poppins';"> 🌱 I’m currently learning **Angular,
             React, Python and Java**</li>
@@ -25,6 +25,7 @@
         <li style="margin-bottom:0.5em; font-weight: 400; font-family: 'Poppins';"> 📫 How to reach me
             **fabbry1991@gmail.com**</li>
     </ul>
+    <div>
 </div>
 
 <hr style="margin-top: 1.5em;">
