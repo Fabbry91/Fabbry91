@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Fabricio Alvarez</h2>
-
+<div align="center">
 * 🌱 I’m currently learning \*\*Angular, React, Python and Java\*\*
 * 👨‍💻 All of my projects are available at [My portfolio](https://fabbry91.github.io/fabricio-alvarez-portfolio)
 * 💬 Ask me about \*\*Angular, Css, Node.js and JavaScript \*\*
 * 📫 How to reach me \*\*fabbry1991@gmail.com\*\*
-
+</div>
 <div align="center">
     <h2>Languages and tools I know and am proficient in</h2>
 </div>
