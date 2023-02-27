@@ -48,6 +48,10 @@ Hello! 👋 I'm Fabricio Nicolás Alvarez, a developer with a little over two ye
 
 <hr>
 
+#
+
+<hr>
+
 # 💫 About Me:
 
 ¡Hola! 👋 Soy Fabricio Nicolás Alvarez, un desarrollador con poco más de dos años de experiencia en el desarrollo web.<br><br>🎓 Finalice la carrera como Técnico Universitario en Programación UTN-FRM, en la cual adquirí habilidades en programación orientada a objetos (OOP), HTML, CSS, Bootstrap, Javascript, Angular y ReactJS, y NodeJS. <br><br>🎓 Cuento tambien, con una diplomatura en lenguaje de programación Python en el centro de e-learning UTN-BA <br><br>🎓 Además de un curso como experto profesional en Full Stack (React, Angular y Node.Js) en el mismo centro.<br><br>🎯 Mi objetivo es desarrollar mi carrera profesional en el mundo IT formando parte de una empresa donde pueda seguir creciendo personal y profesionalmente. Me gustaría aportar mis habilidades y conocimientos para lograr los mejores resultados posibles.<br>Soy un apasionado del trabajo en equipo y siempre estoy dispuesto a escuchar críticas constructivas para mejorar mis habilidades.<br><br>👨‍💻 Algunas de mis habilidades técnicas incluyen: HTML5, CSS3, Javascript, Angular y ReactJS, NodeJS, Python, MongoDB, SQL y Java entre otros.<br><br>💬 Me interesa el aprendizaje continuo y la resolución de problemas.<br>En mi tiempo libre, me gusta trabajar en proyectos personales, participar en competencias de programación y mantenerme actualizado con las últimas tendencias en tecnología.<br><br>🌱 Algunos de mis logros medibles incluyen: creación de sitios web responsivos, funcionales para empresas y clientes personales, participación en competencias de programación y hackatones, y completar cursos y bootcamps en desarrollo web.<br><br>Los invito a visitar mi Porfolio web, en él, podrán conocer algunos de mis proyectos. <br>🌐 https://fabbry91.github.io/fabricio-alvarez-portfolio<br> <br>Puedes contactarme a través de mi correo electrónico<br>📫 fabbry1991@gmail.com<br>
